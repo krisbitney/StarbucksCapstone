@@ -1,0 +1,37 @@
+                      PanelOLS Estimation Summary                      
+Dep. Variable:   ,revenue         ,  R-squared:           ,0.0064      
+Estimator:       ,PanelOLS        ,  R-squared (Between): ,0.1101      
+No. Observations:,444750          ,  R-squared (Within):  ,0.0015      
+Date:            ,Sun, Jul 28 2019,  R-squared (Overall): ,0.0064      
+Time:            ,15:14:41        ,  Log-likelihood       ,-2.055e+06  
+Cov. Estimator:  ,Clustered       ,                       ,            
+                 ,                ,  F-statistic:         ,189.51      
+Entities:        ,14825           ,  P-value              ,0.0000      
+Avg Obs:         ,30.000          ,  Distribution:        ,F(15,444734)
+Min Obs:         ,30.000          ,                       ,            
+Max Obs:         ,30.000          ,  F-statistic (robust):,174.31      
+                 ,                ,  P-value              ,0.0000      
+Time periods:    ,30              ,  Distribution:        ,F(15,444734)
+Avg Obs:         ,1.482e+04       ,                       ,            
+Min Obs:         ,1.482e+04       ,                       ,            
+Max Obs:         ,1.482e+04       ,                       ,            
+                 ,                ,                       ,            
+                                     Parameter Estimates                                      
+                                        ,Parameter,Std. Err., T-stat,P-value,Lower CI,Upper CI
+Intercept                               ,22.926   ,1.5226   ,15.057 ,0.0000 ,19.942  ,25.910  
+offered_0b1e1539f2cc45b7b9fa7c272da2e1d7,1.6596   ,0.1149   ,14.440 ,0.0000 ,1.4343  ,1.8848  
+offered_2298d6c36e964ae4a3e7e9706d1fb8c2,3.4501   ,0.1605   ,21.492 ,0.0000 ,3.1355  ,3.7648  
+offered_2906b810c7d4411798c6938adc9daaa5,2.4646   ,0.1521   ,16.205 ,0.0000 ,2.1665  ,2.7627  
+offered_3f207df678b143eea3cee63160fa8bed,1.3742   ,0.1053   ,13.054 ,0.0000 ,1.1679  ,1.5805  
+offered_4d5c57ea9a6940dd891ad53e9dbe8da0,2.3105   ,0.1453   ,15.900 ,0.0000 ,2.0257  ,2.5953  
+offered_5a8bc65990b245e5a138643cd4eb9837,1.5763   ,0.1017   ,15.504 ,0.0000 ,1.3770  ,1.7755  
+offered_9b98b8c7a33c4b65b9aebfe6a799e6d9,1.9769   ,0.1251   ,15.797 ,0.0000 ,1.7316  ,2.2222  
+offered_ae264e3637204a6fb9bb56bc8210ddfd,2.5861   ,0.1522   ,16.987 ,0.0000 ,2.2877  ,2.8844  
+offered_f19421c1d4aa40978ebb69ca19b0e20d,2.7981   ,0.1939   ,14.433 ,0.0000 ,2.4181  ,3.1781  
+offered_fafdcd668e3743c1bb461111dcafc2a4,4.1698   ,0.1683   ,24.775 ,0.0000 ,3.8399  ,4.4997  
+age                                     ,0.0031   ,0.0024   ,1.2791 ,0.2009 ,-0.0017 ,0.0079  
+became_member_on                        ,-0.5496  ,0.0317   ,-17.319,0.0000 ,-0.6118 ,-0.4874 
+income                                  ,0.0638   ,0.0020   ,31.564 ,0.0000 ,0.0598  ,0.0678  
+gender_F                                ,0.8088   ,0.0875   ,9.2457 ,0.0000 ,0.6373  ,0.9802  
+gender_O                                ,0.5961   ,0.2453   ,2.4296 ,0.0151 ,0.1152  ,1.0769  
+
