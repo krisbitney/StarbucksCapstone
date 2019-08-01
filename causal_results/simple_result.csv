@@ -2,8 +2,8 @@
 Dep. Variable:   ,revenue         ,  R-squared:           ,0.0016      
 Estimator:       ,PanelOLS        ,  R-squared (Between): ,0.0059      
 No. Observations:,510000          ,  R-squared (Within):  ,0.0014      
-Date:            ,Sun, Jul 28 2019,  R-squared (Overall): ,0.0016      
-Time:            ,15:14:39        ,  Log-likelihood       ,-2.325e+06  
+Date:            ,Tue, Jul 30 2019,  R-squared (Overall): ,0.0016      
+Time:            ,11:17:08        ,  Log-likelihood       ,-2.325e+06  
 Cov. Estimator:  ,Clustered       ,                       ,            
                  ,                ,  F-statistic:         ,81.243      
 Entities:        ,17000           ,  P-value              ,0.0000      
