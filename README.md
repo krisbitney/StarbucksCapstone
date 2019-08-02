@@ -4,3 +4,7 @@ Abstract: Starbucks provided simulated data containing information from a series
 
 I explore the extent to which member characteristics predict whether customers will view and complete each offer using regularized logistic regression with natural cubic spline tensor product bases. I search through 3,250 models and select the best model for each outcome using ten-fold cross-validation. On a separate test data set, the selected models achieve 88% and 77% classification accuracy for offer viewing and completion, respectively. Older, high-income members are more likely to complete offers.
 
+Contents:
+1. Project paper: DSND Starbucks Capstone Project.docx
+2. Data cleaning code: Data cleaning.ipynb
+3. Results and visualization code: Estimates.ipynb
